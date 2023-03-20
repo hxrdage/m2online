@@ -1,0 +1,5 @@
+<meta>
+    <script type="server">hds.nut</script>
+    <script type="client">logo.nut</script>
+    <file>logo.png</file>
+</meta>
